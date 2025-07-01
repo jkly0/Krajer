@@ -34,9 +34,9 @@ To deploy this project run
 
 ## Version
 
-The current version of Krajer is 0.5.
+The current version of Krajer is 0.6.
 
-- **0.0** : Creation of Krajer
+- **0.0** : Creation of Krajer, UI integration
 
 - **0.1** : Add of different types of hashes
 
@@ -47,6 +47,8 @@ The current version of Krajer is 0.5.
 - **0.4** : Important bug fixes [program couldn' t work]
 
 - **0.5** : Huge update, search, colors, optimization, progress bar, better masking, hash counter, filter, time that remains calculation, better wordlists, much more
+
+- **0.6** : GPU is now supported
 
 # WILL BE RELEASED AT VERSION 1
 
