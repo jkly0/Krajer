@@ -6,8 +6,6 @@ Krajer is a powerfull cracking appligation with UI. It can crack hashes of almos
 
 It has bruteforce attack, masking attack and dictionary based attack.
 
-**0.6 is 45% done**
-
 ## Roadmap
 
 - Add more functions
