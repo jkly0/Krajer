@@ -6,6 +6,7 @@ Krajer is a powerfull cracking appligation with UI. It can crack hashes of almos
 
 It has bruteforce attack, masking attack and dictionary based attack.
 
+**0.6 is 45% done**
 
 ## Roadmap
 
@@ -35,7 +36,7 @@ To deploy this project run
 
 ## Version
 
-The current version of Krajer is 0.4
+The current version of Krajer is 0.5.
 
 - **0.0** : Creation of Krajer
 
@@ -46,6 +47,8 @@ The current version of Krajer is 0.4
 - **0.3** : Automatic hash type detector
 
 - **0.4** : Important bug fixes [program couldn' t work]
+
+- **0.5** : Huge update, search, colors, optimization, progress bar, better masking, hash counter, filter, time that remains calculation, better wordlists, much more
 
 # WILL BE RELEASED AT VERSION 1
 
