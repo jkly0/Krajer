@@ -35,7 +35,7 @@ To deploy this project run
 
 ## Version
 
-The current version of Krajer is 0.3
+The current version of Krajer is 0.4
 
 - **0.0** : Creation of Krajer
 
@@ -44,6 +44,8 @@ The current version of Krajer is 0.3
 - **0.2** : Supports .db and .sql files | Export / Import integration
 
 - **0.3** : Automatic hash type detector
+
+- **0.4** : Important bug fixes [program couldn' t work]
 
 # WILL BE RELEASED AT VERSION 1
 
